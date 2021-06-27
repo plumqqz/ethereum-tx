@@ -28,9 +28,10 @@
             "url": "https://github.com/plumqqz/rlp.git"
         }
     ],
+
     "require": {
         "PHP": "^7.1 | ^8.0",
-        "plumqqz/rlp": "dev-0.3.3-fix8",
+	    "web3p/rlp": "dev-0.3.3-fix8",
         "web3p/ethereum-util": "~0.1.3",
         "kornrunner/keccak": "~1",
         "simplito/elliptic-php": "~1.0.6"
